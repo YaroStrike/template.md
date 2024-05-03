@@ -1,6 +1,6 @@
 # template.md
 that's how my .md reports looks like 🙄
-```markdown
+----------------------------------------
 # Practical work No. 101 #
 
 ### Topic: example of working with an MD file ###
@@ -62,4 +62,3 @@ print (f'Result: (result)')
 ##### Conclusion on the work done: #####
 
 > But you could just do it like that -  `result = x ** 10`
-```
