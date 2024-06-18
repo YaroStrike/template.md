@@ -20,7 +20,7 @@
 
 ##### Системный анализ: #####
 
-| Input Data      | Output Data     | Condition Handling |
+| Входные данные     | Выходные данные    | Погашение условий|
 | --------------- | --------------- | ------------------- |
 | Data 1          | Result 1        | Condition 1        |
 | Data 2          | Result 2        | Condition 2        |
